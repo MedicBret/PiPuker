@@ -31,6 +31,10 @@ The goal of PiPuker is to simulate emesis during trauma, medical, or tactical sc
 - 500ml wash bottles, silicone tubing, plastic hose barb connectors, and check valves
 - ABS project enclosure
 
+## 🧷 Wiring Diagram
+
+*Diagram coming soon.*
+
 ## 🛠️ Software
 
 - Python 3
