@@ -1,0 +1,32 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs and environment
+*.log
+.env
+
+# VSCode/IDE settings
+.vscode/
+*.code-workspace
+
+# System files
+*.swp
+
+# Pi-specific
+*.bak
+*.img
+*.iso
+*.zip
+*.deb
+*.tar.gz
+
+# Secrets (if you ever use them)
+secrets.json
+credentials.json
